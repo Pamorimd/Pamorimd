@@ -2,9 +2,6 @@
 <h1 align="center">👋 Bem-vindo ao meu perfil do GitHub!</h1>
 
 <!-- Sobre Mim -->
-<p align="center">Olá! Eu sou <strong>Priscila Amorim</strong>, um(a) estudante de Engenharia de Software na PUC-Campinas apaixonado(a) por tecnologia e desenvolvimento de software.</p>
-
-<!-- Sobre Mim -->
 <h2 align="center">Sobre Mim</h2>
 
 <ul>
