@@ -30,10 +30,3 @@
   🔗 <a href="https://www.linkedin.com/in/priscila-amorim-427b8b2a8/">LinkedIn</a><br>
 </p>
 
-<!-- Estatísticas do GitHub -->
-<h2 align="center">Estatísticas do GitHub</h2>
-
-<p align="center">
-  Total de contribuições: [total de contribuições]<br>
-  Seguidores: [número de seguidores]
-</p>
